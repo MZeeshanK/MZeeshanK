@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Malik</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Srinagar, Kashmir.</h3>
 
-<img align="right" alt="Coder" width="300" style="border-radius:50%;" src="programmers.gif"  />
+<img align="center" alt="Coder" width="400" src="programmers.gif"  />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzeeshank" alt="mzeeshank" /></a> </p>
 
