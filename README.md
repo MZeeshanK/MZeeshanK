@@ -1,9 +1,9 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--eZmeO8cn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/arturssmirnovs/github-profile-views-counter/master/banner.png)](https://mzeeshank.vercel.app)
+[![MasterHead](banner.png)](https://mzeeshank.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Zeeshan Malik</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Srinagar, Kashmir.</h3>
 
-<div class="tenor-gif-embed" data-postid="19019116" data-share-method="host" data-aspect-ratio="1.59204" data-width="100%"><a href="https://tenor.com/view/programmer-gif-19019116">Programmer GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coder" width="400" src="programmers.gif"  />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzeeshank" alt="mzeeshank" /></a> </p>
 
