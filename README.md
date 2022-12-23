@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Malik</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Srinagar, Kashmir.</h3>
 
-<img align="right" alt="Coder" src="![image](https://user-images.githubusercontent.com/93533777/209333307-75517296-cb1c-4f6f-aaa5-cdaa2c1a450d.png)
-" />
+<div class="tenor-gif-embed" data-postid="19019116" data-share-method="host" data-aspect-ratio="1.59204" data-width="100%"><a href="https://tenor.com/view/programmer-gif-19019116">Programmer GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzeeshank" alt="mzeeshank" /></a> </p>
 
