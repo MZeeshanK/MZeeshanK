@@ -1,11 +1,11 @@
-[![MasterHead](banner.png)](https://mzeeshank.vercel.app)
+[![MasterHead](https://raw.githubusercontent.com/MZeeshanK/MZeeshanK/main/banner.png)](https://mzeeshank.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Zeeshan Malik</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Srinagar, Kashmir.</h3>
 
-<img align="center" alt="Coder" width="400" src="programmers.gif"  />
+<img alt="Coder" width="400" src="https://raw.githubusercontent.com/MZeeshanK/MZeeshanK/main/programmers.gif" alt="GIF"  />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzeeshank" alt="mzeeshank" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzeeshank" alt="mzeeshank" /></a> </p>
 
 - 🌱 I’m currently learning **ReduxJs and RTK query.**
 
